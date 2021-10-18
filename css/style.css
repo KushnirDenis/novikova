@@ -261,7 +261,7 @@ section .section-head-text {
 
 section h3 {
   font-weight: 500;
-  font-size: 18px;
+  font-size: 22px;
   line-height: 18px;
   color: #828282;
   margin-left: 15px;
@@ -439,7 +439,11 @@ section h3 {
 }
 
 .interactive h3 {
-  margin-top: 30px;
+  margin-top: 50px;
+}
+
+.interactive h2 {
+  margin-top: 50px;
 }
 
 @media (max-width: 995px) {
